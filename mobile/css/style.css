@@ -38,7 +38,7 @@ body {
     max-width: 450px;
     height: auto;
     margin: auto;
-    background-image: url('/images/banner.jpg');
+    background-image: url('/banner.jpg');
     background-size: cover;
     padding: 2em;
 }
