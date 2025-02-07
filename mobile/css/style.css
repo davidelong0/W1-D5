@@ -1,0 +1,180 @@
+/* Your styles here */
+body {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 450px;
+    max-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    font-family: "Open Sans", serif;
+    font-size: 1.2rem;
+    line-height: 1.65;
+    color: #393d41;
+    text-align: center;
+    text-decoration: none;
+    
+}
+* {
+    box-sizing: border-box;
+}
+.around-logo {
+    background-color: black;
+    width: 100%;
+    max-width: 450px;
+    margin: auto;
+    height: auto;
+
+}
+.logo img {
+  display: block;  
+  margin: auto;  
+  max-width: 50%;
+  max-height: 50%;
+  padding: 2em;
+  
+}
+.first-section {
+    width: 100%;
+    max-width: 450px;
+    height: auto;
+    margin: auto;
+    background-image: url('/mobile/images/banner.jpg');
+    background-size: cover;
+    padding: 2em;
+}
+.second-section {
+    width: 100%;
+    max-width: 450px;
+    height: auto;
+    margin: auto;
+    padding: 2em;
+    
+}
+.third-section {
+    width: 100%;
+    max-width: 450px;
+    height: auto;
+    margin: auto;
+    background-color: rgb(255, 68, 0);
+    background-size: cover;
+    padding: 2em;
+}
+.fourth-section {
+    width: 100%;
+    max-width: 450px;
+    height: auto;
+    margin: auto;
+    padding: 2em;
+}
+main img {
+    width: -webkit-fill-available;
+    height: auto;
+
+    
+}
+.blue-big-title {
+    font-family: "Montserrat", serif;
+    font-weight: bold;
+    color:#25a2c3;
+    font-size: xx-large;
+    margin-bottom: 3vh;
+}
+
+.title {
+    font-family: "Montserrat", serif;
+    font-weight: bold;
+    color:#25a2c3;
+}
+.second-section img {
+    margin-top: 3vh;
+    border-radius: 50%;
+}
+.second-section p {
+    margin-top: 2vh;
+}
+.third-section p {
+    margin-top: 2vh;
+    color: white;
+}
+.fourth-section .ok{
+    padding: 1.2em;
+}
+#grey {
+    border: 1px solid rgb(212, 212, 212);
+    margin-top: 4vh;
+}
+#just-this {
+    margin-top: 0;
+}
+.white-big-title {
+    font-family: "Montserrat", serif;
+    font-weight: bold;
+    font-size: xx-large;
+    color: white;
+}
+button {
+    background-color: rgb(255, 68, 0);
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 1.1vh;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    width: 35%;
+    margin-top: 3vh;
+}
+button:hover {
+    background-color: rgb(128, 32, 0);
+}
+.visual {
+    padding: 2em;
+}
+footer {
+    background-color: #25a2c3;
+    background-size: cover;
+    text-decoration: none;
+    color: white;
+    padding: 3vh;
+    font-weight: 100;
+}
+footer div {
+   
+    width: 60%;
+    margin: auto;
+    margin-top: 1.5em;
+    margin-bottom: 1.2em;
+    text-decoration: none;
+    font-size: small;
+    padding: 1.1em;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+i {
+    text-decoration: none;
+    
+}
+#last-margin {
+    margin-bottom: 7vh;
+    font-size: small;
+}
+#italian-style {
+    font-style: italic;
+}
+.custom-hr {
+    border: none;
+    height: 1px;
+    background-color: white;
+    margin: 20px auto;
+    width: 40%;
+}
+
